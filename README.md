@@ -2,4 +2,4 @@
 
 Git demonstration exercise for Coding Bootcamp Praha
 
-Some code has been added on 12/13/2023
+Some code has been added on 13. 12. 2023
